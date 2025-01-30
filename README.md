@@ -1,4 +1,4 @@
-# Chess Game Executable  
+# C++ Chess Game Executable  
 
 This repository contains a pre-compiled executable for a command-line chess game. The source code is not publicly available, but you can run the game using the provided executable.
 
