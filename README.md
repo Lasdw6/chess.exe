@@ -72,5 +72,5 @@ chmod +x chess
 - Text and graphical display (if available)  
 
 ## Building from Source (Not Available Here)  
-The source code is not publicly available. If you need access, please contact the project owner.
+The source code is not publicly available. If you need access, please contact me directly.
 
